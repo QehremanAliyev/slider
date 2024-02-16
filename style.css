@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background-color: rgb(24, 22, 22);
+}
+
+
+img {
+    border-radius: 15px;
+  }
+  
